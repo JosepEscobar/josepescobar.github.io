@@ -9,8 +9,9 @@ math: true
 mermaid: true
 ---
 
-# Navegación Modular en SwiftUI - Un enfoque basado en Enum
-| Utilizando el nuevo NavigationStack con el poder de las enumeraciones de manera modular y expansible.
+En este viaje, exploraremos cómo utilizar el nuevo NavigationStack con el apoyo fundamental de las enumeraciones, para construir una arquitectura de router sólida y modular en tus aplicaciones SwiftUI.
+
+Así que, sin más preámbulos, comencemos a explorar cómo esta poderosa combinación puede simplificar y mejorar la estructura de tus aplicaciones SwiftUI. 🏛️🚀💡
 
 ## Introducción
 En iOS 16, SwiftUI finalmente nos permite encapsular adecuadamente la navegación sin verse obligados a pasar una tonelada de vinculaciones o utilizar NavigationLink directamente en la interfaz de usuario.
