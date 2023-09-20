@@ -1,5 +1,5 @@
 ---
-title: "Navegación Modular en SwiftUI - Un enfoque basado en Enum"
+title: Navegación Modular en SwiftUI - Un enfoque basado en Enum
 author: "Josep Escobar"
 date: 2023-09-20 13:45:00 +0800
 categories: [Desarrollo de Software, Programación, Lenguajes de Programación]
