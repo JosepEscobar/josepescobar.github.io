@@ -1,6 +1,6 @@
 ---
 title: Instalación de Frigate con Docker, Tu Casa, Tu Seguridad, Tu Inteligencia Artificial
-author: Josep Escobar
+author: josepescobar
 date: 2023-09-20 13:40:00 +0800
 categories: [Tecnología, Seguridad]
 tags: [Frigate, Docker, Inteligencia Artificial, Seguridad en el Hogar]
