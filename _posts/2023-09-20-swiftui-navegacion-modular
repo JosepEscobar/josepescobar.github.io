@@ -8,6 +8,7 @@ pin: true
 math: true
 mermaid: true
 ---
+
 # Navegación Modular en SwiftUI - Un enfoque basado en Enum
 | Utilizando el nuevo NavigationStack con el poder de las enumeraciones de manera modular y expansible.
 
